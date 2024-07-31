@@ -62,6 +62,3 @@ Prediction Model Lab; M.S Student (2023.06 ~ ing)
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-   
-
-       [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hearim0414)](https://solved.ac/hearim0414)
