@@ -11,7 +11,7 @@ Department of Mathmatics, Ajou University (2018.03 ~ 2023.02)
 - Bachelor of Mathematics, Bachelor of ICT convergence
 -->
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Welcome to My Github 👋 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Welcome to My Github Page 👋 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">     
 Prediction Model Lab; M.S Student (2023.06 ~ ing)
 </div> 
@@ -53,7 +53,7 @@ Prediction Model Lab; M.S Student (2023.06 ~ ing)
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://www.notion.so/HMM-3ac390e3e3b3492a8948c2311c34b395> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/HMM-3ac390e3e3b3492a8948c2311c34b395"> </a>
-         <a href=mailto:sunrimp@snu.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sunrimp@snu.ac.kr"> </a>
+         <a href=mailto:sunrimp@snu.ac.kr> <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sunrimp@snu.ac.kr"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
