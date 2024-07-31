@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **hyerim0414/hyerim0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 
+![Hyerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyerim0414&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyerim0414&layout=compact&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyerim0414&count_private=true)
+
+
+![Seolranlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolranlee&count_private=true)
