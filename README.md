@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-![Hyerim's GitHub stats](https://github-readme-stats-seven-iota-62.vercel.app/api?username=hyerim0414)
+![Hyerim's GitHub stats](https://github-readme-stats-hyerim0414s-projects.vercel.app/api?username=hyerim0414&count_private=true&hide=stars)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyerim0414&layout=compact&count_private=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyerim0414&count_private=true)
-
-
-![Seolranlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolranlee&count_private=true)
+![Hyerim](https://github-readme-stats-hyerim0414s-projects.vercel.app/api/top-langs/?username=hyerim0414&layout=compact&count_private=true)
