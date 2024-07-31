@@ -48,7 +48,12 @@ Prediction Model Lab; M.S Student (2023.06 ~ ing)
         <img src="https://github-readme-stats-hyerim0414s-projects.vercel.app/api?username=hyerim0414&hide_rank=false&count_private=true&hide=stars&show_icons=true"
          />
         <img src="https://github-readme-stats-hyerim0414s-projects.vercel.app/api/top-langs/?username=hyerim0414&layout=compact&hide=tex"
-         />  </div> 
+         />  
+        <!--
+        <a href=https://solved.ac/hearim0414> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hearim0414"> </a>
+        <a href=https://solved.ac/hearim0414> <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hearim0414"> </a>
+          -->
+          </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 Contact me </h2> <br> 
@@ -58,3 +63,5 @@ Prediction Model Lab; M.S Student (2023.06 ~ ing)
     <div style="text-align: left;">  </div> 
     </div>
    
+
+       [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hearim0414)](https://solved.ac/hearim0414)
