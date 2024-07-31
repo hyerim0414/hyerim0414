@@ -20,11 +20,11 @@ Prediction Model Lab; M.S Student (2023.06 ~ ing)
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Research Interests </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
     
-### datatype
+### data
 <ul>
-  <li>functional</li>
+  <li>biorhythm</li>
   <li>time series</li>
-  <li>longitudinal</li>
+  <li>accelerometer</li>
 </ul>
 
 ### methodology
