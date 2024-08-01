@@ -1,16 +1,3 @@
-<!--내용 부분-->
-<!--
-![Hyerim's GitHub stats](https://github-readme-stats-hyerim0414s-projects.vercel.app/api?username=hyerim0414&count_private=true&hide=stars)
-![Hyerim](https://github-readme-stats-hyerim0414s-projects.vercel.app/api/top-langs/?username=hyerim0414&layout=compact&hide=tex)
-🎓Education
-Department of Statistics, Seoul National University (2023.03 ~ ing)
-- M.S. Student in Statistics
-- Prediction Model Lab
-
-Department of Mathmatics, Ajou University (2018.03 ~ 2023.02)
-- Bachelor of Mathematics, Bachelor of ICT convergence
--->
-
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Welcome to My Github Page 👋 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">     
@@ -68,4 +55,14 @@ Prediction Model Lab; M.S Student (2023.06 ~ ing)
     <div style="text-align: left;">  </div> 
     </div>
 
-
+<!--내용 부분-->
+<!--
+![Hyerim's GitHub stats](https://github-readme-stats-hyerim0414s-projects.vercel.app/api?username=hyerim0414&count_private=true&hide=stars)
+![Hyerim](https://github-readme-stats-hyerim0414s-projects.vercel.app/api/top-langs/?username=hyerim0414&layout=compact&hide=tex)
+🎓Education
+Department of Statistics, Seoul National University (2023.03 ~ ing)
+- M.S. Student in Statistics
+- Prediction Model Lab
+Department of Mathmatics, Ajou University (2018.03 ~ 2023.02)
+- Bachelor of Mathematics, Bachelor of ICT convergence
+-->
